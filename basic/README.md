@@ -16,3 +16,10 @@ Initialize a map with coordinates set by React, update the state of coordinates 
     open http://localhost:3000/
 
 Runs the app from http://localhost:3000
+
+
+Question
+---
+Your goal is to load a set of data points from https://data.sfgov.org/resource/8vzz-qzz9.json and render on the Map.
+
+
